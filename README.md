@@ -1,1 +1,3 @@
-# CNN_MNIST
+# LSTM_RNN_Text_generation
+
+Data: Anna Karenina
