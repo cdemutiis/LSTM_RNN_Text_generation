@@ -1,6 +1,6 @@
 # LSTM\_RNN\_Text_generation
 
-Run *jupyter notebook Anna_KaRNNa.ipynb* within the repo 
+Run **jupyter notebook Anna_KaRNNa.ipynb** within the repo 
 
 Data: Anna Karenina by Leo Tolstoy
 
